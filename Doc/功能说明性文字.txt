@@ -1,0 +1,39 @@
+替换游戏默认的底栏信息板，提供更详细的游戏数据显示。
+
+比如显示更详细的时间，更详细的人口数据等，
+可以一目了然地看到城市中进口量，教育程度，失业率等这些关系城市发展的数据。
+在底栏，你还可以直接看到电力，供水排污设备的容量，切换后还可以看到学校的容量。
+
+你在发展城市时，不再需要频繁地切换到对应的面板去查看数据了。
+
+
+这个MOD除了显示数据以外，还提供了其他一些小功能，
+
+单击每个信息标签，可以切换到标签对应的城市信自数据显示。
+鼠标移动到每个标签上，会有对应的提示。
+提供快捷按钮可以快速切换白天和黑夜，可以切换天气等（晴天/小雨，中雨，大雨)
+右键在左上角的区域图标上按下并移动鼠标，可以快速调节游戏中的时间，改变光照效果。
+
+如果喜欢这个MOD，请点个赞先~~。
+
+
+this mod replace the below info panel, and show more information.
+
+when you building your city. you can look more city info & data in this mod's extended panel.
+
+
+Show more:
+time: local time / playing time. (click labe to switch),
+game time: world hour of day. date of map.
+Capacities: Electricity / Water / Sewage / school Capacities Slider bar.
+City info: DistrictsCount, BuildingCount, TreeCount etc,
+Incom info: Import/Export Total value and detail bar.
+more Population datas.
+
+functions:
+shortcut icon to switch day/night or toggle day/night.
+shortcut icon to switch weather. (sunny, SprinkleRain, MiddleRain HeavyRain)
+right down and move mouse on the Area button, can be to set the time of day.
+click label to open game's panel.
+
+if you like this mode please rate it.
